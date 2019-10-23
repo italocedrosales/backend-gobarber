@@ -1,2 +1,3 @@
-# backend GoBarber
-App do treinamento Bootcamp Gostack da RocketSeat.
+# Backend GoBarber
+
+Bootcamp Gostack training app from RocketSeat.
